@@ -4,4 +4,3 @@ module.exports = {
     'no-unused-expressions': 'off',
     '@typescript-eslint/ban-types': 'off',
   },
-};
