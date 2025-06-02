@@ -287,7 +287,6 @@ def get_args(argv):
     args.start_epoch = 0
     args.saveid = args.loss if args.saveid == '' else args.saveid
     args.cluster2Class = None
-    args.SPN = None
 
     return args
 
