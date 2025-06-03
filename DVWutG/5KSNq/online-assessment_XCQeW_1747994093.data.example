@@ -14,5 +14,4 @@ EMAIL_HOST_USER="<youremail@example.com>"
 # =============================
 # Other
 
-DEBUG=True
 SECRET_KEY="<your_secret_key>"
