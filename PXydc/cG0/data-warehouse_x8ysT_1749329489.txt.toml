@@ -6,7 +6,6 @@ test_patterns = [
 ]
 
 exclude_patterns = [
-  "**/mock_*.go",
   "**/*.pb.go"
 ]
 
