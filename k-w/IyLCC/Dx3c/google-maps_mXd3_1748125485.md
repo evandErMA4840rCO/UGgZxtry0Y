@@ -27,7 +27,6 @@ of those projects will use our [modified Contributor Covenant][].
 [modified Contributor Covenant]: https://opensource.google/docs/releasing/template/CODE_OF_CONDUCT/
 
 ## Resolve peacefully
-
 We do not believe that all conflict is necessarily bad; healthy debate and
 disagreement often yields positive results. However, it is never okay to be
 disrespectful.
