@@ -11,5 +11,4 @@ EMAIL_USE_TLS=True
 EMAIL_FROM_ADDRESS="Dj LMS <youremail@example.com>"
 
 # Other
-
 SECRET_KEY="<your_secret_key>"
