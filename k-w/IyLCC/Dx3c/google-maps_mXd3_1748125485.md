@@ -10,7 +10,6 @@ gender identity and expression, sexual orientation, disabilities,
 neurodiversity, physical appearance, body size, ethnicity, nationality, race,
 age, religion, or similar personal characteristic.
 
-We value diverse opinions, but we value respectful behavior more.
 
 Respectful behavior includes:
 
