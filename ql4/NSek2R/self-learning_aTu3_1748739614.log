@@ -22,7 +22,6 @@ Akita Noek ("anoek") - for some minor performance and api suggestions, minor cud
 Harald Han - for some work on CUDNN8 support
 "inbae" - for removing boost filesystem dependencies, major contributions to pytorch training
 "rimathia" - for a minor bugfix
-"Jonathan_Go" - for help with client proxy support
 Jonathan Roy ("roy7") - for various search refactors
 Kensuke Matsuzaki ("zakki") - catching a buffer overrun bug
 Kuang-che Wu ("kcwu") - minor improvement to distributed logging
