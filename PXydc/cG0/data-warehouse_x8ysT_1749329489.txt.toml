@@ -8,7 +8,6 @@ test_patterns = [
   "**/*.pb.go"
 ]
 
-[[analyzers]]
 name = "go"
 enabled = true
 
