@@ -1,7 +1,6 @@
 **/dist/*
 **/build/*
 
-# Tests
 **/coverage/**
 **/playwright-report/**
 **/test-results/**
