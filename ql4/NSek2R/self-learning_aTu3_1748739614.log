@@ -12,7 +12,6 @@ Brett Harrison - coauthor of part of the original game board code
 Annie Wagner ("featurecat") - slight readme edits
 Martin Häcker ("dwt") - minor bugfix, MacOS support, commandline improvements
 "yenw" - simple compile fix on MacOS.
-Adrian Petrescu ("apetresc") - MacOS support
 Anson Hu ("farmersrice") - frontend features and logic
 Sander Land ("sanderland") - many options for analysis engine, various bugfixes and other work
 Alexander Noack ("shammyx") - minor customization for resign logic
