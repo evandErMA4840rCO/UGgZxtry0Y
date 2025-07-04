@@ -68,7 +68,6 @@
   ([PR#319](https://github.com/cycloidio/terracognita/pull/319))
 - Add new aws resource: aws_ecs_task_definition
   ([PR#333](https://github.com/cycloidio/terracognita/pull/333))
-- Added new Azure resource: `azurerm_data_protection_backup_vault`
   ([PR#349](https://github.com/cycloidio/terracognita/pull/349))
 
 ### Changed
