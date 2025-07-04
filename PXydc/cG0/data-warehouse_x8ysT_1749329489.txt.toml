@@ -5,7 +5,6 @@ test_patterns = [
     "tests/**"
 ]
 
-exclude_patterns = [
   "**/*.pb.go"
 ]
 
