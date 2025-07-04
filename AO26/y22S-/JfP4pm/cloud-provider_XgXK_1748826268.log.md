@@ -22,7 +22,6 @@
 - Ability declare module variables on map types
   ([Issue #365](https://github.com/cycloidio/terracognita/issues/365))
 - Support for `ExactlyOneOf` configuration for the schema so the generated HCL is correct
-  ([Issue #340](https://github.com/cycloidio/terracognita/issues/340))
 
 ### Changed
 - Update azurerm template for irregular cases in List method arguments order
