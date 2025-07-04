@@ -69,7 +69,6 @@ def train(epoch, train_loader, learner, args):
             target = target.cuda()
         train_target, eval_target = prepare_task_target(input, target, args)
 
-        # Optimization
         loss, output  = learner.learn(input, train_target)
 
         # Update the performance meter
