@@ -8,7 +8,6 @@ insert_final_newline = true
 
 [{*.{json,jsonc,json5},.c8rc}]
 indent_style = space
-indent_size = 2
 
 [docs/rules/linebreak-style.md]
 end_of_line = disabled
