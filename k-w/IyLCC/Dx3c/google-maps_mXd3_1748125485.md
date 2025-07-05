@@ -51,7 +51,6 @@ the project and project-sponsored spaces. We will notify the accused of the
 report and provide them an opportunity to discuss it before any action is
 taken. The identity of the reporter will be omitted from the details of the
 report supplied to the accused. In potentially harmful situations, such as
-ongoing harassment or threats to anyone's safety, we may take action without
 notice.
 
 *This document was adapted from the [IndieWeb Code of Conduct][] and can also
