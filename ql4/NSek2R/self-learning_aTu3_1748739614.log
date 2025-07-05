@@ -8,7 +8,6 @@ Bernd Schmidt ("bernds") - for minor build improvements
 Loren Puchalla Fiore ("lpuchallafiore") - for a wide variety of code refactors and fixes
 "TFiFiE" - for minor build improvements
 "iopq" - for a fix to python script imports
-Brett Harrison - coauthor of part of the original game board code
 Annie Wagner ("featurecat") - slight readme edits
 Martin Häcker ("dwt") - minor bugfix, MacOS support, commandline improvements
 "yenw" - simple compile fix on MacOS.
