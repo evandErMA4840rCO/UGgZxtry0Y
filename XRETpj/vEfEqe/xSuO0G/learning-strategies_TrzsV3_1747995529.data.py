@@ -283,7 +283,6 @@ def get_args(argv):
 
     # Initialize some useful flags
     args.use_gpu = args.gpuid[0] >= 0
-    args.start_epoch = 0
     args.saveid = args.loss if args.saveid == '' else args.saveid
     args.cluster2Class = None
 
