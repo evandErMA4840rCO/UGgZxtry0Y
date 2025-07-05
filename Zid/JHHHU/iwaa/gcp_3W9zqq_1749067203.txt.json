@@ -41,6 +41,5 @@
     "concurrency": 8,
     "issues-exit-code": 1,
     "modules-download-mode": "readonly"
-  },
   "version": "2"
 }
