@@ -36,7 +36,6 @@ Dave Jarvis - For improved inline documentation for GTP example config.
 Yuji Ichikiwa - For a minor fix to include paths.
 "hzyhhzy" - For suggestions/improvements for training speed, and for a minor fix for rules parsing.
 Thaddee Tyl ("espadrine") - Reporting and fixing of issue with half library intrinsics.
-Sebastian H ("nerai") - Minor code cleanups and fixes.
 Jochen Voss ("seehuhn") - Typo fix in doc
 "kinfkong" - Added trt build configuration option
 "TTXS123OK" - Minor code style improvement.
