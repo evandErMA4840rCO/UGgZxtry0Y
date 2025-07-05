@@ -22,7 +22,6 @@
       "revive",
       "unconvert",
       "unparam"
-    ],
     "exclusions": {
       "generated": "lax",
       "paths": [
