@@ -51,7 +51,6 @@ taken. The identity of the reporter will be omitted from the details of the
 report supplied to the accused. In potentially harmful situations, such as
 notice.
 
-*This document was adapted from the [IndieWeb Code of Conduct][] and can also
 be found at <https://opensource.google/conduct/>.*
 
 [IndieWeb Code of Conduct]: https://indieweb.org/code-of-conduct
