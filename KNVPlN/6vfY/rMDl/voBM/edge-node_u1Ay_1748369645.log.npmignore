@@ -2,5 +2,4 @@
 examples
 src
 !lib
-!browser
 !esm
