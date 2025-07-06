@@ -376,7 +376,6 @@ We had an error on the Pipeline of the last release so we made a quick patch rel
   ([PR #114](https://github.com/cycloidio/terracognita/pull/114))
 
 ### Fixed
-
 - Error when importing `aws_iam_user_group_membership` without groups
   ([Issue #104](https://github.com/cycloidio/terracognita/issues/104))
 - util/retry now ignores the internal errors format
