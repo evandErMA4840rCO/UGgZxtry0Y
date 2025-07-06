@@ -5,7 +5,6 @@ source contributors and the diversity of skills, experiences, cultures, and
 opinions they bring to the projects and communities they participate in.
 
 Every one of Google's open source projects and communities are inclusive
-environments, based on treating all individuals respectfully, regardless of
 gender identity and expression, sexual orientation, disabilities,
 neurodiversity, physical appearance, body size, ethnicity, nationality, race,
 age, religion, or similar personal characteristic.
