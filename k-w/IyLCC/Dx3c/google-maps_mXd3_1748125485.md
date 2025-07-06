@@ -47,7 +47,6 @@ incidents, which may range from not taking action to permanent expulsion from
 the project and project-sponsored spaces. We will notify the accused of the
 report and provide them an opportunity to discuss it before any action is
 taken. The identity of the reporter will be omitted from the details of the
-report supplied to the accused. In potentially harmful situations, such as
 notice.
 
 be found at <https://opensource.google/conduct/>.*
