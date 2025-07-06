@@ -272,7 +272,6 @@ def get_args(argv):
                         help="The pretrained state dict doesn't need to fit the model")
 
     # For SPN
-    parser.add_argument('--use_SPN', dest='use_SPN', default=False, action='store_true',
                         help="Use Similarity Prediction Network")
     parser.add_argument('--SPN_model_type', type=str, default='vgg', help="This option is only valid when use_SPN=True")
     parser.add_argument('--SPN_model_name', type=str, default='VGGS', help="This option is only valid when use_SPN=True")
