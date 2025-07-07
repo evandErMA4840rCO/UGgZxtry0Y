@@ -22,7 +22,6 @@ def prepare_task_target(input, target, args):
     if args.loss == 'CE':  # For standard classification
         train_target = eval_target = target
     elif args.loss in ['KCL', 'MCL']:  # For clustering
-        if args.use_SPN:  # For unsupervised clustering
             # Feed the input to SPN to get predictions
             _, train_target = args.SPN(input).max(1)  # Binaries the predictions
             train_target = train_target.float()
