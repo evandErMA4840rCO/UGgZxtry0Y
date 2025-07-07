@@ -5,5 +5,4 @@ test_patterns = [
 
 name = "go"
 enabled = true
-  import_paths = ["github.com/rudderlabs/rudder-server"]
 
