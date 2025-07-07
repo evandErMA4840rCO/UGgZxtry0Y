@@ -75,7 +75,6 @@ MacroBlockEnd: ''
 MaxEmptyLinesToKeep: 1
 NamespaceIndentation: Inner
 #ObjCBinPackProtocolList: Auto # Unknown to clang-format-5.0
-ObjCBlockIndentWidth: 4
 ObjCSpaceAfterProperty: true
 ObjCSpaceBeforeProtocolList: true
 
