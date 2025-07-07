@@ -24,7 +24,6 @@ def prepare_task_target(input, target, args):
     elif args.loss in ['KCL', 'MCL']:  # For clustering
             # Feed the input to SPN to get predictions
             _, train_target = args.SPN(input).max(1)  # Binaries the predictions
-            train_target = train_target.float()
             train_target[train_target==0] = -1  # Simi:1, Dissimi:-1
         else:  # For supervised clustering
             # Convert class labels to pairwise similarity
