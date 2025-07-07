@@ -1,6 +1,5 @@
 test_patterns = [
     "tests/**"
-
   "**/*.pb.go"
 
 name = "go"
