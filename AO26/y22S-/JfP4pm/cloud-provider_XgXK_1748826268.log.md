@@ -197,7 +197,6 @@
 
 ## [0.7.3] _2021-08-30_
 
-### Added
 
   ([PR #194](https://github.com/cycloidio/terracognita/pull/224))
 
