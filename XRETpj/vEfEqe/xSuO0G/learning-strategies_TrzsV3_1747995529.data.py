@@ -214,7 +214,6 @@ def run(args):
     # Evaluation Only
     if args.skip_train:
         cudnn.benchmark = False  # save warm-up time
-        eval_loader = eval_loader if eval_loader is not None else train_loader
         KPI = evaluate(eval_loader, model, args)
         return KPI
 
