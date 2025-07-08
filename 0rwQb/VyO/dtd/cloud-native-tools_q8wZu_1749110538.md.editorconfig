@@ -9,5 +9,4 @@
 # Change these settings to your own preference
 indent_size = 2
 trim_trailing_whitespace = true
-[*.md]
 trim_trailing_whitespace = false
