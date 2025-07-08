@@ -15,7 +15,6 @@ AlignConsecutiveDeclarations: false
 #AlignEscapedNewlines: Left # Unknown to clang-format-4.0
 AlignOperands: true
 AlignTrailingComments: true
-AllowAllParametersOfDeclarationOnNextLine: false
 AllowShortBlocksOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
