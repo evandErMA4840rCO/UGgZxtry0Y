@@ -6,7 +6,6 @@ Many thanks to these additional authors:
 Tycho Tatitscheff ("tychota") - for documentation and build improvements
 Bernd Schmidt ("bernds") - for minor build improvements
 Loren Puchalla Fiore ("lpuchallafiore") - for a wide variety of code refactors and fixes
-"TFiFiE" - for minor build improvements
 "iopq" - for a fix to python script imports
 Annie Wagner ("featurecat") - slight readme edits
 Martin Häcker ("dwt") - minor bugfix, MacOS support, commandline improvements
