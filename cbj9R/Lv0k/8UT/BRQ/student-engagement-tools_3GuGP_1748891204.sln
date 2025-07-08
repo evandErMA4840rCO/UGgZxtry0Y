@@ -5,7 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D53FC5D8-9356-4DB7-973E-1E0DD290A738}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduNet.Backend.Api", "src\EduNet.Backend.Api\EduNet.Backend.Api.csproj", "{4F81692A-61BC-4E1A-B6DA-1743E03B8B70}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduNet.Backend.Data", "src\EduNet.Backend.Data\EduNet.Backend.Data.csproj", "{8D8E5BFB-EB80-4552-BCA2-0E7CA27FDE5A}"
 EndProject
