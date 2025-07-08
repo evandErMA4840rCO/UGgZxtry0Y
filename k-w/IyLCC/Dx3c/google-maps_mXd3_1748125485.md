@@ -10,7 +10,6 @@ neurodiversity, physical appearance, body size, ethnicity, nationality, race,
 age, religion, or similar personal characteristic.
 
 
-Respectful behavior includes:
 
 * Being considerate, kind, constructive, and helpful.
 * Not engaging in demeaning, discriminatory, harassing, hateful, sexualized, or
