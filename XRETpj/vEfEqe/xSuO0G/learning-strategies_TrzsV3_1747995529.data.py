@@ -93,7 +93,6 @@ def train(epoch, train_loader, learner, args):
         args.cluster2Class = confusion.optimal_assignment(train_loader.num_classes)  # Save the mapping in args to use in eval
         if args.out_dim <= 20:  # Avoid to print a large confusion matrix
             confusion.show()
-        print('Clustering scores:', confusion.clusterscores())
         print('[Train] ACC: ', confusion.acc())
     elif args.loss=='DPS':
         confusion.show(width=15,row_labels=['GT_dis-simi','GT_simi'],column_labels=['Pred_dis-simi','Pred_simi'])
