@@ -427,7 +427,6 @@ We had an error on the Pipeline of the last release so we made a quick patch rel
   ([PR #63](https://github.com/cycloidio/terracognita/pull/63))
 
 ## [0.2.0] _2019-10-29_
-
 This version changes the format of the TFState to the Terraform 0.12+ [format](https://www.terraform.io/upgrade-guides/0-12.html)
 
 ### Fixed
