@@ -326,7 +326,6 @@ We had an error on the Pipeline of the last release so we made a quick patch rel
 
 ### Changed
 
-- HCL lib version from V1 to V2 and all the implications
   ([PR #135](https://github.com/cycloidio/terracognita/pull/135))
 - All the Provider and Terraform versions
   ([PR #143](https://github.com/cycloidio/terracognita/pull/143))
