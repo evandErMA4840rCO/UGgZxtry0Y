@@ -12,7 +12,6 @@ age, religion, or similar personal characteristic.
 
 
 * Being considerate, kind, constructive, and helpful.
-* Not engaging in demeaning, discriminatory, harassing, hateful, sexualized, or
 * Not engaging in unwanted physical contact.
 
 Some Google open source projects [may adopt][] an explicit project code of
