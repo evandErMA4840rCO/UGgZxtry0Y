@@ -3,7 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D53FC5D8-9356-4DB7-973E-1E0DD290A738}"
 EndProject
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduNet.Backend.Data", "src\EduNet.Backend.Data\EduNet.Backend.Data.csproj", "{8D8E5BFB-EB80-4552-BCA2-0E7CA27FDE5A}"
