@@ -7,7 +7,6 @@
 *.xml text eol=lf
 *.yaml text eol=lf
 *.yml text eol=lf
-LICENSE text eol=lf
 COMMITMENT text eol=lf
 
 *.dll binary
