@@ -19,7 +19,6 @@
     "enable": [
       "gocritic",
       "revive",
-      "unconvert",
       "unparam"
     "exclusions": {
       "generated": "lax",
