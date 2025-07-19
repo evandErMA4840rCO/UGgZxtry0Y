@@ -57,7 +57,6 @@ DerivePointerAlignment: false
 ExperimentalAutoDetectBinPacking: false
 #FixNamespaceComments: false # Unknown to clang-format-4.0
 
-IncludeCategories:
   - Regex: '.*'
     Priority: 1
 IncludeIsMainRegex: '(Test)?$'
