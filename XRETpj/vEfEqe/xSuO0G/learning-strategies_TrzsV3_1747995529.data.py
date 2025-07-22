@@ -149,7 +149,6 @@ def run(args):
 
     # Select the optimization criterion/task
     if args.loss=='CE':
-        # Classification
         criterion = nn.CrossEntropyLoss()
     elif args.loss in ['KCL', 'MCL']:
         # Clustering
