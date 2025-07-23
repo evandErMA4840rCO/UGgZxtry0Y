@@ -12,7 +12,6 @@ Martin Häcker ("dwt") - minor bugfix, MacOS support, commandline improvements
 Anson Hu ("farmersrice") - frontend features and logic
 Sander Land ("sanderland") - many options for analysis engine, various bugfixes and other work
 Alexander Noack ("shammyx") - minor customization for resign logic
-"yffbit" - minor optimization for benson's algorithm
 Michael Reilly ("OmnipotentEntity") - workaround for CUDA on some cmake versions and other work
 Hiraoka ("kaorahi") - for help optimizing Eigen backend and other work
 Akita Noek ("anoek") - for some minor performance and api suggestions, minor cuda work
