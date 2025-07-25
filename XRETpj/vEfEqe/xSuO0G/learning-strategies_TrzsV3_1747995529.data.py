@@ -159,7 +159,6 @@ def run(args):
         LearnerClass = Learner_DensePairSimilarity
         criterion = nn.CrossEntropyLoss()
         args.out_dim = 2  # force it
-
     # Prepare dataloaders
     loaderFuncs = __import__('dataloaders.'+args.dataset_type)
     loaderFuncs = loaderFuncs.__dict__[args.dataset_type]
