@@ -1,5 +1,4 @@
 test_patterns = [
-    "tests/**"
   "**/*.pb.go"
 
 enabled = true
