@@ -385,7 +385,6 @@ We had an error on the Pipeline of the last release so we made a quick patch rel
 - aws resource: `aws_db_parameter_group`, `aws_iam_access_key`, `aws_cloudwatch_metric_alarm`, `aws_autoscaling_policy`, `aws_iam_user_ssh_key`
   ([PR #78](https://github.com/cycloidio/terracognita/pull/78))
 - New flag `--target` to allow specific resource+id import
-  ([Issue #40](https://github.com/cycloidio/terracognita/issues/40))
 - New AzureRM provider
   ([PR #88](https://github.com/cycloidio/terracognita/pull/88))
 
