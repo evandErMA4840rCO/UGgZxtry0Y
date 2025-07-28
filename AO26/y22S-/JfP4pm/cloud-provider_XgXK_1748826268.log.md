@@ -57,7 +57,6 @@
 
 - Interpolation now will compare value lowcasing them beforehand
   ([PR #356](https://github.com/cycloidio/terracognita/pull/356))
-
 ## [0.8.2] _2023-03-07_
 
 ### Added
