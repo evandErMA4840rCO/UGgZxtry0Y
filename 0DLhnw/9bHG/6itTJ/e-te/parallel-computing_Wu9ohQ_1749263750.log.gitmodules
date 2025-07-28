@@ -1,5 +1,4 @@
 [submodule "hw01"]
-	path = hw01
 [submodule "hw02"]
 	path = hw02
 	url = https://github.com/parallel101/hw02.git
