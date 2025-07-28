@@ -64,7 +64,6 @@
 - Added new Azure resource: `azurerm_virtual_machine_data_disk_attachment`
   ([PR#334](https://github.com/cycloidio/terracognita/pull/334))
 - Allow the writing of tf/provider into a separated config key
-  ([PR#319](https://github.com/cycloidio/terracognita/pull/319))
 - Add new aws resource: aws_ecs_task_definition
   ([PR#333](https://github.com/cycloidio/terracognita/pull/333))
   ([PR#349](https://github.com/cycloidio/terracognita/pull/349))
