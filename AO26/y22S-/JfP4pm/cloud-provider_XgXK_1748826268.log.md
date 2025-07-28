@@ -165,7 +165,6 @@
   ([Issue #100](https://github.com/cycloidio/terracognita/issues/100))
 - Update tfdocs version to v0.0.0-20220509071309-2f31fd03120a
   ([Issue #286](https://github.com/cycloidio/terracognita/issues/286))
-
 ### Fixed
 
 - Issue with importing `google_storage_bucket_iam_policy`
