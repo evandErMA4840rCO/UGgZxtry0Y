@@ -7,7 +7,6 @@
 	url = https://github.com/parallel101/hw03.git
 [submodule "hw04"]
 	url = https://github.com/parallel101/hw04.git
-[submodule "subtitles"]
 	url = https://github.com/parallel101/subtitles.git
 [submodule "hw08"]
 	url = https://github.com/parallel101/hw08.git
