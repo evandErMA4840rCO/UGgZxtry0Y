@@ -10,7 +10,6 @@
 [submodule "subtitles"]
 	url = https://github.com/parallel101/subtitles.git
 	url = https://github.com/parallel101/hw06.git
-	url = https://github.com/parallel101/hw07.git
 [submodule "hw08"]
 	url = https://github.com/parallel101/hw08.git
 [submodule "hw10"]
